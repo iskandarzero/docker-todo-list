@@ -70,7 +70,7 @@ Quando for necessário fazer a orquestração das aplicações, o arquivo `docke
 
 * Este projeto é individual
 * São `2` dias de projeto
-* Data para entrega final do projeto: `18/07/2022 14:10`
+* Data para entrega final do projeto: `18/07/2022 14:00`
 
 </details>
 
